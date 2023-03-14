@@ -1,4 +1,6 @@
 h1 {
-    color: rgba(173, 216, 230, 0.536);
-    font-family: "LCD", monospace;    
+    color: rgb(158, 235, 207);
+    font-family: 'Silkscreen', monospace;
+    font-weight: normal;
+    /* font-family: "LCD", monospace; */
 }
